@@ -1,2 +1,0 @@
-./run.sh: line 8: 35674 Done                    python gen_run.py $i
-     35675 Terminated              | ../nae_neg3/nae_neg > result/r$i
