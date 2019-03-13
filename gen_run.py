@@ -58,7 +58,5 @@ def gen(N, K, H):
 			print j,
 		print ''
 
-#for i in range(49, 56):
-################ at most 56
 i = int(sys.argv[1])
 gen(i, 6, 5)
