@@ -1,5 +1,6 @@
 #!/bin/sh
 
+mkdir result
 
 for((i=72;i<100;i++));
 do
