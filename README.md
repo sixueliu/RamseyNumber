@@ -1,7 +1,7 @@
 # RamseyNumber
 Ramsey Number on Hypergraphs
 
-Please run "./run.sh" to generate a CNF for proving r_k(k+1,k+1)>=N and to solve it by the algorithm nae_neg.
+Please run "./run.sh" to generate a NAE-SAT instance for proving r_k(k+1,k+1)>=N and to solve it by the algorithm nae_neg.
 
 
 
