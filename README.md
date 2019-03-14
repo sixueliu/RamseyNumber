@@ -17,5 +17,3 @@ Other helpful statistics:
 (a). r_2(5,5)>=43: 1500 seconds.
 
 (b). r_3(5,4)>=33: 20 seconds.
-
-(c). r_4(5,5)>=34: 300 seconds.
