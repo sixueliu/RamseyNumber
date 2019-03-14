@@ -12,7 +12,7 @@ It takes about 15 seconds to find this graph using the algorithm on our machine 
 The file "result_71/r71" is a 71-vertex 5-hypergraph with no 6-clique nor 6-independent-set, i.e., a proof for r_5(6,6)>=72. 
 It takes about 138 hours to find this graph using the algorithm on our machine.
 
-Other helpful statistics:
+Other representative statistics:
 
 (a). r_2(5,5)>=43: 1500 seconds.
 
